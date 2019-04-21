@@ -1,7 +1,7 @@
 {
   "name": "ember-vnc",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Ember addon to connect to a remote desktop via the RFB protocol.",
   "keywords": [
     "ember-addon"
   ],
