@@ -1,14 +1,18 @@
 module.exports = {
   root: true,
+  parser: '@typescript-eslint/parser',
   parserOptions: {
     ecmaVersion: 2017,
+    project: './tsconfig.json',
     sourceType: 'module'
   },
-  plugins: ['ember', 'prettier'],
+  plugins: ['ember', 'prettier', '@typescript-eslint'],
   extends: [
     'eslint:recommended',
     'plugin:ember/recommended',
-    'plugin:prettier/recommended'
+    'plugin:@typescript-eslint/recommended',
+    'plugin:prettier/recommended',
+    'prettier/@typescript-eslint'
   ],
   env: {
     browser: true
@@ -48,7 +52,7 @@ module.exports = {
         {},
         require('eslint-plugin-node').configs.recommended.rules,
         {
-          // add your custom rules and overrides for node files here
+          '@typescript-eslint/no-var-requires': 'off'
         }
       )
     }

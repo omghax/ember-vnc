@@ -37,6 +37,8 @@
     "@types/prettier": "^1.16.3",
     "@types/qunit": "^2.5.4",
     "@types/rsvp": "^4.0.2",
+    "@typescript-eslint/eslint-plugin": "^1.7.0",
+    "@typescript-eslint/parser": "^1.7.0",
     "broccoli-asset-rev": "^2.7.0",
     "commitizen": "^3.1.1",
     "commitlint": "^7.5.2",
