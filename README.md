@@ -1,5 +1,7 @@
 # ember-vnc
 
+[![Build Status](https://travis-ci.org/omghax/ember-vnc.svg?branch=master)](https://travis-ci.org/omghax/ember-vnc)
+
 Ember addon to connect to a remote desktop via the RFB protocol.
 
 ## Compatibility
