@@ -3,7 +3,9 @@
   "version": "0.0.0",
   "description": "Ember addon to connect to a remote desktop via the RFB protocol.",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "rfb",
+    "vnc"
   ],
   "repository": "",
   "license": "MIT",
