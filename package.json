@@ -46,7 +46,7 @@
     "@types/stream-buffers": "^3.0.2",
     "@typescript-eslint/eslint-plugin": "^1.7.0",
     "@typescript-eslint/parser": "^1.7.0",
-    "broccoli-asset-rev": "^2.7.0",
+    "broccoli-asset-rev": "^3.0.0",
     "commitizen": "^3.1.1",
     "commitlint": "^7.5.2",
     "cz-conventional-changelog": "^2.1.0",
