@@ -25,6 +25,7 @@ module.exports = {
         'commitlint.config.js',
         'ember-cli-build.js',
         'index.js',
+        'prettier.config.js',
         'testem.js',
         'blueprints/*/index.js',
         'config/**/*.js',
