@@ -3738,12 +3738,7 @@ conventional-changelog-jshint@^2.0.1:
     compare-func "^1.3.1"
     q "^1.5.1"
 
-conventional-changelog-preset-loader@^2.0.2:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/conventional-changelog-preset-loader/-/conventional-changelog-preset-loader-2.0.2.tgz#81d1a07523913f3d17da3a49f0091f967ad345b0"
-  integrity sha512-pBY+qnUoJPXAXXqVGwQaVmcye05xi6z231QM98wHWamGAmu/ghkBprQAwmF5bdmyobdVxiLhPY3PrCfSeUNzRQ==
-
-conventional-changelog-preset-loader@^2.1.1:
+conventional-changelog-preset-loader@^2.0.2, conventional-changelog-preset-loader@^2.1.1:
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/conventional-changelog-preset-loader/-/conventional-changelog-preset-loader-2.1.1.tgz#65bb600547c56d5627d23135154bcd9a907668c4"
   integrity sha512-K4avzGMLm5Xw0Ek/6eE3vdOXkqnpf9ydb68XYmCc16cJ99XMMbc2oaNMuPwAsxVK6CC1yA4/I90EhmWNj0Q6HA==
@@ -3785,15 +3780,7 @@ conventional-commit-types@^2.0.0:
   resolved "https://registry.yarnpkg.com/conventional-commit-types/-/conventional-commit-types-2.1.1.tgz#352eb53f56fbc7c1a6c1ba059c2b6670c90b2a8a"
   integrity sha512-0Ts+fEdmjqYDOQ1yZ+LNgdSPO335XZw9qC10M7CxtLP3nIMGmeMhmkM8Taffa4+MXN13bRPlp0CtH+QfOzKTzw==
 
-conventional-commits-filter@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/conventional-commits-filter/-/conventional-commits-filter-2.0.1.tgz#55a135de1802f6510b6758e0a6aa9e0b28618db3"
-  integrity sha512-92OU8pz/977udhBjgPEbg3sbYzIxMDFTlQT97w7KdhR9igNqdJvy8smmedAAgn4tPiqseFloKkrVfbXCVd+E7A==
-  dependencies:
-    is-subset "^0.1.1"
-    modify-values "^1.0.0"
-
-conventional-commits-filter@^2.0.2:
+conventional-commits-filter@^2.0.1, conventional-commits-filter@^2.0.2:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/conventional-commits-filter/-/conventional-commits-filter-2.0.2.tgz#f122f89fbcd5bb81e2af2fcac0254d062d1039c1"
   integrity sha512-WpGKsMeXfs21m1zIw4s9H5sys2+9JccTzpN6toXtxhpw2VNF2JUXwIakthKBy+LN4DvJm+TzWhxOMWOs1OFCFQ==
@@ -3814,20 +3801,7 @@ conventional-commits-parser@^2.1.0:
     through2 "^2.0.0"
     trim-off-newlines "^1.0.0"
 
-conventional-commits-parser@^3.0.1:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/conventional-commits-parser/-/conventional-commits-parser-3.0.1.tgz#fe1c49753df3f98edb2285a5e485e11ffa7f2e4c"
-  integrity sha512-P6U5UOvDeidUJ8ebHVDIoXzI7gMlQ1OF/id6oUvp8cnZvOXMt1n8nYl74Ey9YMn0uVQtxmCtjPQawpsssBWtGg==
-  dependencies:
-    JSONStream "^1.0.4"
-    is-text-path "^1.0.0"
-    lodash "^4.2.1"
-    meow "^4.0.0"
-    split2 "^2.0.0"
-    through2 "^2.0.0"
-    trim-off-newlines "^1.0.0"
-
-conventional-commits-parser@^3.0.2:
+conventional-commits-parser@^3.0.1, conventional-commits-parser@^3.0.2:
   version "3.0.2"
   resolved "https://registry.yarnpkg.com/conventional-commits-parser/-/conventional-commits-parser-3.0.2.tgz#1295590dd195f64f53d6f8eb7c41114bb9a60742"
   integrity sha512-y5eqgaKR0F6xsBNVSQ/5cI5qIF3MojddSUi1vKIggRkqUTbkqFKH9P5YX/AT1BVZp9DtSzBTIkvjyVLotLsVog==
@@ -6773,11 +6747,6 @@ is-stream@^1.0.0, is-stream@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/is-stream/-/is-stream-1.1.0.tgz#12d4a3dd4e68e0b79ceb8dbc84173ae80d91ca44"
   integrity sha1-EtSj3U5o4Lec6428hBc66A2RykQ=
-
-is-subset@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/is-subset/-/is-subset-0.1.1.tgz#8a59117d932de1de00f245fcdd39ce43f1e939a6"
-  integrity sha1-ilkRfZMt4d4A8kX83TnOQ/HpOaY=
 
 is-symbol@^1.0.2:
   version "1.0.2"
