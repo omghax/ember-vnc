@@ -40,7 +40,7 @@
     "@types/ember-testing-helpers": "^0.0.3",
     "@types/ember__test-helpers": "^0.7.8",
     "@types/prettier": "^1.16.3",
-    "@types/qunit": "^2.5.4",
+    "@types/qunit": "^2.9.0",
     "@types/readable-stream": "^2.3.1",
     "@types/rsvp": "^4.0.2",
     "@types/stream-buffers": "^3.0.3",
