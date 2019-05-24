@@ -76,7 +76,7 @@
     "husky": "^2.3.0",
     "lint-staged": "^8.1.6",
     "loader.js": "^4.7.0",
-    "prettier": "^1.17.0",
+    "prettier": "^1.17.1",
     "qunit-dom": "^0.8.5",
     "standard-version": "^6.0.1",
     "stream-buffers": "^3.0.2",
