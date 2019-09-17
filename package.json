@@ -32,7 +32,7 @@
     "readable-stream": "^3.4.0"
   },
   "devDependencies": {
-    "@commitlint/config-conventional": "^7.6.0",
+    "@commitlint/config-conventional": "^8.2.0",
     "@ember/optional-features": "^0.7.0",
     "@types/ember": "^3.1.0",
     "@types/ember-qunit": "^3.4.6",
